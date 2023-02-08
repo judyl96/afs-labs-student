@@ -4,7 +4,7 @@ metadata:
   name: app-deployment
   namespace: jlieu
   labels:
-    app:app
+    app: app
 spec:
   replicas: 1
   strategy:
